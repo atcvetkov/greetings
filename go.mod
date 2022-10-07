@@ -1,3 +1,4 @@
-module github.com/atcvetkov/greetings
+module atcvetkov/greetings
 
 go 1.19
+
